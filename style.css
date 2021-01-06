@@ -73,10 +73,54 @@ h3{
 }
 .remake{
     color:tomato;
+    margin-left: 1%;
+    padding-right:2%;
+    width:10%;
+    height:50%;
+    text-align: center;
+
+
+}
+.experience-area h1{
+    margin-left: 15%;
+    padding-right:2%;
+    width:10%;
+    height:50%;
+    text-align: center;
+    display:inline;
+    padding-top:30%;
+
+
+
+
+
+
+
+}
+.Inquiry{
+    margin-left: 30%;
+    width:50%;
+    height:50%;
+    text-align: center;
+    padding-top:30%;
+
+
+    
+
 
 }
 #chat{
-    background-image:url(/personal-website-main/shapes/Group_33094_1.png);
+    background-image:url("personal-website-main/shapes/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    width:60%;
+    height:20%;
+    padding: 10%;
+    margin-bottom: 80%;
+
+
+
 
 
 
